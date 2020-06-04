@@ -1,7 +1,7 @@
 # CGAProject
 Dies ist das Template Projekt für die Abschlussprojekte im Modul Computergrafik und Animation an der TH Köln.
 
-Bitte forken Sie dieses Projekt und entwickeln Sie Ihr Abschlussprojekt in diesem Fork weiter. Denken Sie daran Ihr Projekt öffentlich zu machen, damit wir darauf zugreifen können.
+Bitte forken Sie dieses Projekt und entwickeln Sie Ihr Abschlussprojekt in diesem Fork weiter. Denken Sie daran uwemuesse und martineisemann als Collaborators hinzuzufügen, damit wir darauf zugreifen können.
 
 Löschen Sie als erstes den Abschnitt CGAProjekt in dieser Datei und füllen Sie den Rest entsprechend aus für die Abgabe. 
 
@@ -19,7 +19,7 @@ Listen Sie hier alle relevanten Features als Liste mit sinnvoller Reihenfolge au
 
 Bspw.
 
-- Verschiedene Kameramodelle (Wechsel zwischen orthographischer und perspektivischer Kamera mittels "c") (Armin)
+- Verschiedene Kameramodelle (Wechsel zwischen orthographischer und perspektivischer Kamera mittels "c") (Berta)
 - Dynamische Kamera (Steuerung mittels Maus und "WASD" auf der Tastatur) (Carola und Armin)
-- Verschiedene Shaderprogramme (Wechsel mittels "s") (Berta)
+- Verschiedene Shaderprogramme (Wechsel mittels "s") (Carola)
 - ...
