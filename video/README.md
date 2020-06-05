@@ -6,3 +6,5 @@ Das Video darf nur Ihre Anwendung zeigen, sowie Ihre Stimmen beinhalten.
 Zur Erstellung können Sie ein beliebiges Programm verwenden, wir können folgende empfehlen:
 - https://obsproject.com/
 - https://www.techsmith.de/camtasia.html
+
+Bitte speichern Sie das Video als MP4 (H.264).
