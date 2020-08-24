@@ -16,6 +16,7 @@ Listen Sie hier noch einmal alle Teammitglieder auf.
 
 # Featureliste 
 Listen Sie hier alle relevanten Features als Liste mit sinnvoller Reihenfolge auf mit Angabe wer das Feature implementiert hat.
+Bei starker Ungleicheit der Features behalten wir uns eine individuelle Notenvergabe vor.
 
 Bspw.
 
